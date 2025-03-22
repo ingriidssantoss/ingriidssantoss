@@ -15,7 +15,7 @@ Atualmente estudante de Engenharia de Software no 6º período pelo **IFPE**, te
 
 - 🛠️ **DevOps**
 - 📊 **Análise de Dados**
-- 🤖 **Inteligência Artificial**
+- 🤖 **Cybersegurança**
 - 🎨 **Front-end**
 
 <div align="center">
