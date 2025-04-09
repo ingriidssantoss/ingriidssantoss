@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/ingriidssantoss/ingriidssantoss/main/nome-animado.svg" alt="INGRID SANTOS" width="600"/>
 
 
-Atualmente estudante de Engenharia de Software no 6º período pelo **IFPE**, tenho uma paixão imensa por tecnologia e estou em constante busca por novos aprendizados. 
+Atualmente estudante de Engenharia de Software no 7º período pelo **IFPE**, tenho uma paixão imensa por tecnologia e estou em constante busca por novos aprendizados. 
 
 </div>
 
